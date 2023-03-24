@@ -29,23 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go Application",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/luiz.feitosa/repos/algoritmos-em-golang-luizr2002",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/luiz.feitosa/repos/algoritmos-em-golang-luizr2002&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Go Build.go build salario.go">
+}</component>
+  <component name="RunManager" selected="Go Build.go build peso em libras.go">
     <configuration name="go build idade em anos.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-luizr2002" />
       <working_directory value="$PROJECT_DIR$" />
@@ -60,6 +60,14 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/peso e altura.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build peso em libras.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-luizr2002" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/peso em libras.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build salario.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -78,21 +86,13 @@
       <filePath value="$PROJECT_DIR$/tres numeros inteiros dobro, triplo e quadruplo.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build tres numeros inteiros.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-luizr2002" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/tres numeros inteiros.go" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build salario.go" />
+        <item itemvalue="Go Build.go build peso em libras.go" />
         <item itemvalue="Go Build.go build idade em anos.go" />
+        <item itemvalue="Go Build.go build salario.go" />
         <item itemvalue="Go Build.go build peso e altura.go" />
         <item itemvalue="Go Build.go build tres numeros inteiros dobro, triplo e quadruplo.go" />
-        <item itemvalue="Go Build.go build tres numeros inteiros.go" />
       </list>
     </recent_temporary>
   </component>
